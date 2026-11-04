@@ -11,6 +11,8 @@ Auto-updating tracking dashboards built by NorthSide. One folder per brand.
 | Oddy Uniwrap | [Daily Sales & Marketing Report](https://akash-northside.github.io/Dashboards/Oddy-Uniwrap-DSR/Oddy_Uniwrap_DSR_Dashboard.html) | Daily, after each DSR run |
 | Gluman | [Daily Sales & Marketing Report](https://akash-northside.github.io/Dashboards/Gluman-DSR/Gluman_DSR_Dashboard.html) | Daily, after each DSR run |
 | Elevens Coffee | [Daily Sales & Marketing Report](https://akash-northside.github.io/Dashboards/Elevens-Coffee-DSR/Elevens_Coffee_DSR_Dashboard.html) | Daily, after each DSR run |
+| NorthSide (reference) | [Sample Ads Dashboard](https://akash-northside.github.io/Dashboards/NorthSide-Samples/NorthSide_Sample_Ads_Dashboard.html) | Illustrative sample — refreshed when the dashboard standard changes |
+| NorthSide (reference) | [Sample Sales Dashboard](https://akash-northside.github.io/Dashboards/NorthSide-Samples/NorthSide_Sample_Sales_Dashboard.html) | Illustrative sample — refreshed when the dashboard standard changes |
 
 Every dashboard is encrypted (AES-256-GCM). The data stays unreadable without the password.
 Crawlers and AI bots are blocked by `robots.txt`, and each page carries `noindex` tags.
